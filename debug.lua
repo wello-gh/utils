@@ -7,5 +7,6 @@ end
 
 webImport("init")
 webImport("ui/main")
+print("wow a random wello appeared")
 
-loadstring(game:HttpGetAsync("https://cdn.wearedevs.net/scripts/Dex%20Explorer.txt"))()
+loadstring(game:HttpGetAsync("https://gist.githubusercontent.com/DinosaurXxX/b757fe011e7e600c0873f967fe427dc2/raw/ee5324771f017073fc30e640323ac2a9b3bfc550/dark%2520dex%2520v4"))()
